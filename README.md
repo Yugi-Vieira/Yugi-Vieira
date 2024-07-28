@@ -1,6 +1,6 @@
 - 👋 Alá, eu sou @Yugi-Vieira
 
-- 👀 Tenho interesse em desenvolvimento de aplicativos. 
+- 👀 Tenho interesse em desenvolvimento Java. 
 - 🌱 Estou atualmente no 4° Semestre do curso de ADS, Fatec Lins.
 - 💞️ Estou em busca de uma oportunidade de estagio para aprender mais da area de programação
 
