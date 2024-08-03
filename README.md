@@ -1,9 +1,11 @@
 ---
 # José Yugi Santos Vieira
 
+Sou um entusiasta da área da tecnologia, em constante aprendizado e desenvolvimento de novas habilidades.
+Busco aprimorar meus conhecimentos em linguagens de programação como Java e C, buscando sempre novas oportunidades de crescimento profissional e pessoal.
+Minhas áreas de interesse incluem desenvolvimento de jogos, desenvolvimento web e a criação de projetos inovadores.
 Estou atualmente cursando o 3° Semestre de ADS, estudando estrutura de dados com linguagem C, e POO com Java. 
 Também estou participando da Jornada Java com Spring Boot na DIO
-
 Estou em busca de uma vaga de estágio na área para começar minha carreira como programador.
 
 ### Conecte-se comigo
@@ -25,4 +27,8 @@ Estou em busca de uma vaga de estágio na área para começar minha carreira com
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yugi-Vieira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yugi-Vieira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+### Projetos
+
+* **TextRPG:** Um RPG de texto desenvolvido em Java. [https://github.com/Yugi-Vieira/TextRPG](https://github.com/Yugi-Vieira/TextRPG)
+  
 ---
