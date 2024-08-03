@@ -1,7 +1,10 @@
 ---
 # José Yugi Santos Vieira
 
-Breve descrição sobre você.
+Estou atualmente cursando o 3° Semestre de ADS, estudando estrutura de dados com linguagem C, e POO com Java. 
+Também estou participando da Jornada Java com Spring Boot na DIO
+
+Estou em busca de uma vaga de estágio na área para começar minha carreira como programador.
 
 ### Conecte-se comigo
 
