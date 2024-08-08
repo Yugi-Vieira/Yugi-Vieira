@@ -37,5 +37,7 @@ Estou em busca de uma vaga de estágio na área para começar minha carreira com
 * **TextRPG:** Um RPG de texto desenvolvido em Java. [https://github.com/Yugi-Vieira/TextRPG](https://github.com/Yugi-Vieira/TextRPG)
 * **ShopCart:** Um carrinho de compras desenvolvido com HTML, CSS e JS
 [https://github.com/Yugi-Vieira/ShopCart](https://github.com/Yugi-Vieira/ShopCart)
+* **Registro de Funcionario** Um sistema simples para registrar funcionarios com HTML, CSS e JS.
+[https://github.com/Yugi-Vieira/RegistrarFuncionari](https://github.com/Yugi-Vieira/RegistrarFuncionari)
 
 ---
