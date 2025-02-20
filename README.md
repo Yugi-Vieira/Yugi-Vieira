@@ -3,7 +3,7 @@
 
 Sou um entusiasta da área da tecnologia, em constante aprendizado e desenvolvimento de novas habilidades.
 Busco aprimorar meus conhecimentos em linguagens de programação como Java e NodeJS, buscando sempre novas oportunidades de crescimento profissional e pessoal.
-Minhas áreas de interesse incluem desenvolvimento de jogos, desenvolvimento web e a criação de projetos inovadores.
+Minhas áreas de interesse incluem desenvolvimento de jogos, desenvolvimento backend e a criação de projetos inovadores.
 Estou atualmente cursando o 3° Semestre de ADS, estudando estrutura de dados com linguagem C, e POO com Java. 
 Também estou participando da Jornada Java com Spring Boot na DIO
 Estou em busca de uma vaga de estágio na área para começar minha carreira como programador.
